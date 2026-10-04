@@ -73,13 +73,6 @@ export default defineConfig({
       { text: "Mulai Membaca", link: "/01-front-colophon" },
       { text: "Daftar Isi", link: "/10-part-start" },
       { text: "Glosarium", link: "/92-app-glossary" },
-      {
-        text: "Unduh",
-        items: [
-          { text: "Edisi EPUB", link: "/pstack-guide-0.15.5-id.0.epub" },
-          { text: "Edisi PDF", link: "/pstack-guide-0.15.5-id.0.pdf" }
-        ]
-      },
       { text: "GitHub", link: "https://github.com/cursor/plugins/tree/adf3218ca2f5b9971eedc07a76bef22df7701539/pstack" },
       { text: "created by www.argakuka.com", link: "https://www.argakuka.com" }
     ],

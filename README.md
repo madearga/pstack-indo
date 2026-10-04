@@ -14,7 +14,7 @@ bun run check
 
 Hasilnya ada di `dist/pstack-guide-0.15.5-id.0.epub` dan `dist/pstack-guide-0.15.5-id.0.pdf`. Untuk membangun satu format, gunakan `bun tools/build.mjs epub` atau `bun tools/build.mjs pdf`. Jika browser tidak terdeteksi otomatis, atur `CHROME_PATH` ke executable Chrome/Chromium.
 
-Build juga mengisi `build/` sebagai akar situs yang dipublish Netlify lewat `netlify.toml` di akar repositori: `index.html` memuat seluruh buku dengan tautan antarbagian sebagai anchor, EPUB selalu disalin ke `build/`, dan PDF hanya disalin bila ia dibangun dengan Chrome.
+Artefak build tersebut tinggal di `dist/` untuk pemakaian lokal; situs web yang dipublish Netlify tidak lagi membagikan berkas EPUB atau PDF.
 
 ## Struktur naskah
 
