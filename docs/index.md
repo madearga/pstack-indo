@@ -9,12 +9,6 @@ hero:
     - theme: brand
       text: Mulai Membaca
       link: /01-front-colophon
-    - theme: alt
-      text: Unduh EPUB
-      link: /pstack-guide-0.15.5-id.0.epub
-    - theme: alt
-      text: Unduh PDF
-      link: /pstack-guide-0.15.5-id.0.pdf
 
 features:
   - icon: 📘
@@ -41,6 +35,5 @@ pstack bekerja paling baik ketika Anda berhenti memanajemen agent terlalu rinci.
 - **Mulai dari awal:** [Tentang edisi ini](01-front-colophon.md) dan [Cara menggunakan buku ini](02-front-howto.md)
 - **Bab pertama:** [Mulai](10-part-start.md) dan [Apa itu pstack?](11-ch-what-is-pstack.md)
 - **Rujukan cepat:** [Referensi cepat skill](91-app-quickref.md) dan [Glosarium](92-app-glossary.md)
-- **Format luring:** Unduh [EPUB](/pstack-guide-0.15.5-id.0.epub) atau [PDF](/pstack-guide-0.15.5-id.0.pdf) untuk membaca luring
 
 </div>
